@@ -1,6 +1,6 @@
-package com.blz.interfacelearning.service.provider;
+package com.codedictator.interfacelearning.service.provider;
 
-import com.blz.interfacelearning.service.BharatBank;
+import com.codedictator.interfacelearning.service.BharatBank;
 
 public class ICICIBank implements BharatBank {
 

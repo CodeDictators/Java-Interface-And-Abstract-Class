@@ -1,6 +1,6 @@
-package com.blz.interfacelearning.service.provider;
+package com.codedictator.interfacelearning.service.provider;
 
-import com.blz.interfacelearning.service.RBIBank;
+import com.codedictator.interfacelearning.service.RBIBank;
 
 public class ICICIBankAbstract extends RBIBank {
 

@@ -1,11 +1,11 @@
-package com.blz.interfacelearning.runner;
+package com.codedictator.interfacelearning.runner;
 
-import com.blz.interfacelearning.service.BharatBank;
-import com.blz.interfacelearning.service.RBIBank;
-import com.blz.interfacelearning.service.provider.HDFCBank;
-import com.blz.interfacelearning.service.provider.HDFCBankAbstract;
-import com.blz.interfacelearning.service.provider.ICICIBank;
-import com.blz.interfacelearning.service.provider.ICICIBankAbstract;
+import com.codedictator.interfacelearning.service.BharatBank;
+import com.codedictator.interfacelearning.service.RBIBank;
+import com.codedictator.interfacelearning.service.provider.HDFCBank;
+import com.codedictator.interfacelearning.service.provider.HDFCBankAbstract;
+import com.codedictator.interfacelearning.service.provider.ICICIBank;
+import com.codedictator.interfacelearning.service.provider.ICICIBankAbstract;
 
 public class Transaction {
 

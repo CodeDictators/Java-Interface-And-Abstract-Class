@@ -1,4 +1,4 @@
-package com.blz.interfacelearning.service;
+package com.codedictator.interfacelearning.service;
 
 public abstract class RBIBank {
 
